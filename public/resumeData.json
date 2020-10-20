@@ -1,0 +1,45 @@
+{
+  "main": {
+    "name": "Heriberto Torres",
+    "occupation": "Full Stack Software Engineer",
+    "description": "enjoys programming, technology, learning new skills, and mastering existing ones",
+    "bio": "Since I had first been exposed to programming years ago, I knew that this was my life purpose. I studied relentlessly day in and day out to learn and grasp new skils and concepts. Soon after, I had decided to pursue a bachelor's in Computer Science where I had learned much about programming theory as well as different aspects of software development, mobile application development, and web development. Later, I decided to attend a web development bootcamp at Coding Dojo to aquire knowledge on current technologies used in the field. I have continued to practice and learn new concepts ever since. I am passionate about programming and will continue to strive for excellence and mastery of the technologies utilized.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "eddietorres622@gmail.com",
+    "phone": "+1 201 982 1486",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/heriberto-t/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Eddie622",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "React project with a front-end design based on Netflix. Integrates the TMDb third-party API using Axios to fetch json results which are used to display categories of movies as well as respective posters, backdrops, and YouTube trailers where applicable.",
+        "image": "netflix-clone.PNG",
+        "url": "http://3.16.130.67"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Full stack web application using the MERN solution. Discord based community messaging application utilizing chat channels with web sockets. Front end features React-Redux, Axios, & Material-UI. Back end includes bcyrpt, cors, jsonwebtoken, & cookie-parser among other tools & technologies.",
+        "image": "discord-clone.PNG",
+        "url": "http://52.14.182.138"
+      },
+      {
+        "title": "Void Tech Systems",
+        "category": "An E-Commerce site built using Django & Python featuring AJAX to search and display database results, manages multiple relational models, uses mobile friendly design, and implements bootstrap among a variety of other concepts. Features user authentication & authorization along with wish lists and carts to manage customer product selection.",
+        "image": "voidtech.PNG",
+        "url": "http://www.voidtechsystems.com"
+      }
+    ]
+  }
+}
